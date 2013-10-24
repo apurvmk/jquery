@@ -1,7 +1,7 @@
 This is a test file!
 
 We have modified this file!
-
+master changes
 Lets make changes!
 
 Changes for jquery branch!
